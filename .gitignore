@@ -1,0 +1,75 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.git
+.mvn
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Outputs
+
+bazel-*
+
+test-project-host-*
+
+dist/
+
+
+
+# IDEs
+
+.idea/
+
+jsconfig.json
+
+.vscode/
+
+
+
+# Typings file.
+
+typings/
+
+
+
+# Misc
+
+coverage/
+
+node_modules/
+
+tmp/
+
+npm-debug.log*
+
+yarn-error.log*
+
+.ng_pkg_build/
+
+
+# Mac OSX Finder files.
+
+**/.DS_Store
+
+.DS_Store
